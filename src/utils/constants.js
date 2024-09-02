@@ -6,7 +6,7 @@ const projects = [
     technologies: "Javascript, CSS,",
     src: "/images/projectsImages/furniturestorepage.png",
     demo: "https://esraa-abdo3.github.io/furniture/",
-    code: "https://lnkd.in/d5aJVXtz",
+    code: "https://github.com/esraa-abdo3/furniture",
   },
   {
     id: 2,
