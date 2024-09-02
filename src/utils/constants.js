@@ -5,7 +5,7 @@ const projects = [
     description: "Furniture  store with React JS and  CSS",
     technologies: "Javascript, CSS,",
     src: "/images/projectsImages/furniturestorepage.png",
-    demo: "https://lnkd.in/dVSiEKt7",
+    demo: "https://esraa-abdo3.github.io/furniture/",
     code: "https://lnkd.in/d5aJVXtz",
   },
   {
