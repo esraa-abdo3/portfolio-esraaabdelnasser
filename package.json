@@ -4,11 +4,13 @@
   "version": "0.0.0",
   "type": "module",
   "scripts": {
-    "start": "vite ",
+    "start": "vite",
     "dev": "vite",
     "build": "vite build",
     "lint": "eslint src --ext js,jsx --report-unused-disable-directives --max-warnings 0",
-    "preview": "vite preview"
+    "preview": "vite preview",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
   },
   "dependencies": {
     "@react-hook/media-query": "^1.1.1",
@@ -38,9 +40,5 @@
     "tailwindcss": "^3.3.1",
     "vite": "^4.5.3"
   },
-  "homepage": "https://esraa-abdo3.github.io/portfolio-esraaabdelnasser",
-"scripts": {
-  "predeploy": "npm run build",
-  "deploy": "gh-pages -d build"
-},
+  "homepage": "https://esraa-abdo3.github.io/portfolio-esraaabdelnasser"
 }
