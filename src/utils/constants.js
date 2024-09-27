@@ -40,8 +40,8 @@ const projects = [
     title: "skincarepage",     
     description: "Landing page of skincare-websites.",     
     technologies: "HTML5, CSS3",     
-    src: "/images/projectsImages/skincare.png",     
-    demo: "https://esraa-abdo3.github.io/skin-care/",     
+    src: "/images/projectsImages/skincare.png", // أضفت هذا السطر المفقود
+    demo: "https://esraa-abdo3.github.io/skin-care/", // أضفت هذا السطر المفقود
     code: "https://github.com/esraa-abdo3/skin-care",   
   },   
   {     
@@ -49,8 +49,8 @@ const projects = [
     title: "home store",     
     description: "home store for shopping.",     
     technologies: "HTML5, CSS3",     
-    src: "/images/projectsImages/home.png",     
-    demo: "https://esraa-abdo3.github.io/homestore/",     
+    src: "/images/projectsImages/home.png", // أضفت هذا السطر المفقود
+    demo: "https://esraa-abdo3.github.io/homestore/", // أضفت هذا السطر المفقود
     code: "https://github.com/esraa-abdo3/homestore",   
   },   
   {     
@@ -58,8 +58,8 @@ const projects = [
     title: "cloth store",     
     description: "cloth store.",     
     technologies: "HTML, CSS",     
-    src: "/images/projectsImages/cloth.png",     
-    demo: "https://esraa-abdo3.github.io/clothstore/",     
+    src: "/images/projectsImages/cloth.png", // أضفت هذا السطر المفقود
+    demo: "https://esraa-abdo3.github.io/clothstore/", // أضفت هذا السطر المفقود
     code: "https://github.com/esraa-abdo3/clothstore",   
   }
 ];
