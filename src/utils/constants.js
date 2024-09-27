@@ -48,6 +48,16 @@ const projects = [
     demo: "https://esraa-abdo3.github.io/clothstore/",
     code: "https://github.com/esraa-abdo3/clothstore",
   },
+    {
+    id: 6,
+    title: "to do list",
+    description:
+      "to do list.",
+    technologies: "html ,react,javascript , CSS",
+    src: "/images/projectsImages/cloth.png",
+    demo: "https://to-do-list-iota-jet.vercel.app/",
+    code: "https://github.com/esraa-abdo3/to-do-list",
+  },
 
 ];
 
