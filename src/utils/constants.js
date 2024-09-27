@@ -54,7 +54,7 @@ const projects = [
     description:
       "to do list.",
     technologies: "html ,react,javascript , CSS",
-    src: "/images/projectsImages/todo",
+    src: "/images/projectsImages/todo.png",
     demo: "https://to-do-list-iota-jet.vercel.app/",
     code: "https://github.com/esraa-abdo3/to-do-list",
   },
