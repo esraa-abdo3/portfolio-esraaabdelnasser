@@ -26,7 +26,6 @@ const projects = [
     demo: "https://esraa-abdo3.github.io/furniture/",     
     code: "https://github.com/esraa-abdo3/furniture",   
   },   
- 
   {     
     id: 4,     
     title: "skincarepage",     
@@ -54,13 +53,6 @@ const projects = [
     demo: "https://esraa-abdo3.github.io/clothstore/",     
     code: "https://github.com/esraa-abdo3/clothstore",   
   }
-];
-
-export default projects;
-
-    
-
-
 ];
 
 export default projects;
