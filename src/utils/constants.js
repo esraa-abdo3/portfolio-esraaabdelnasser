@@ -20,15 +20,6 @@ const projects = [
     code: "https://github.com/esraa-abdo3/portfolio-esraaabdelnasser",
   },
   {
-    id: 1,
-    title: "Furniture",
-    description: "Furniture  store with React JS and  CSS",
-    technologies: "Javascript, CSS,",
-    src: "/images/projectsImages/furniturestorepage.png",
-    demo: "https://esraa-abdo3.github.io/furniture/",
-    code: "https://github.com/esraa-abdo3/furniture",
-  },
-    {
     id: 3,
     title: "Furniture",
     description: "Furniture  store with React JS and  CSS",
@@ -37,8 +28,17 @@ const projects = [
     demo: "https://esraa-abdo3.github.io/furniture/",
     code: "https://github.com/esraa-abdo3/furniture",
   },
-  {
+    {
     id: 4,
+    title: "Furniture",
+    description: "Furniture  store with React JS and  CSS",
+    technologies: "Javascript, CSS,",
+    src: "/images/projectsImages/furniturestorepage.png",
+    demo: "https://esraa-abdo3.github.io/furniture/",
+    code: "https://github.com/esraa-abdo3/furniture",
+  },
+  {
+    id: 5,
     title: "learing-websites",
     description:
       "Landing page of learing-websites.",
@@ -48,7 +48,7 @@ const projects = [
     code: "https://github.com/esraa-abdo3/learning-website",
   },
   {
-    id: 5,
+    id: 6,
     title: "skincarepage",
     description:
       "Landing page of skincare-websites",
@@ -58,7 +58,7 @@ const projects = [
     code: "https://github.com/esraa-abdo3/skin-care",
   },
   {
-    id: 6,
+    id: 7,
     title: "home store",
     description:
       "home store for shopping ",
@@ -68,7 +68,7 @@ const projects = [
     code: "https://github.com/esraa-abdo3/homestore",
   },
   {
-    id: 7,
+    id: 8,
     title: "cloth store",
     description:
       "cloth store.",
