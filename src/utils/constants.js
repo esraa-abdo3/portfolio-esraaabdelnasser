@@ -15,7 +15,7 @@ const projects = [
     description:
       "my portfoio.",
     technologies: "html ,react,javascript,tailwind , CSS",
-    src: "/images/projectsImages/todo.png",
+    src: "/images/projectsImages/my.png",
     demo: "https://portfolio-esraaabdelnasser-paqe.vercel.app/",
     code: "https://github.com/esraa-abdo3/portfolio-esraaabdelnasser",
   },
