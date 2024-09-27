@@ -26,17 +26,9 @@ const projects = [
     demo: "https://esraa-abdo3.github.io/furniture/",     
     code: "https://github.com/esraa-abdo3/furniture",   
   },   
+ 
   {     
     id: 4,     
-    title: "learing-websites",     
-    description: "Landing page of learing-websites.",     
-    technologies: "HTML5, Tailwind CSS",     
-    src: "/images/projectsImages/learning.png",     
-    demo: "https://esraa-abdo3.github.io/learning-website/",     
-    code: "https://github.com/esraa-abdo3/learning-website",   
-  },   
-  {     
-    id: 5,     
     title: "skincarepage",     
     description: "Landing page of skincare-websites.",     
     technologies: "HTML5, CSS3",     
@@ -45,7 +37,7 @@ const projects = [
     code: "https://github.com/esraa-abdo3/skin-care",   
   },   
   {     
-    id: 6,     
+    id: 5,     
     title: "home store",     
     description: "home store for shopping.",     
     technologies: "HTML5, CSS3",     
@@ -54,7 +46,7 @@ const projects = [
     code: "https://github.com/esraa-abdo3/homestore",   
   },   
   {     
-    id: 7,     
+    id: 6,     
     title: "cloth store",     
     description: "cloth store.",     
     technologies: "HTML, CSS",     
