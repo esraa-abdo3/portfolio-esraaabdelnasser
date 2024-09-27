@@ -77,7 +77,7 @@ const projects = [
     demo: "https://esraa-abdo3.github.io/clothstore/",
     code: "https://github.com/esraa-abdo3/clothstore",
   },
-    {
+    
 
 
 ];
