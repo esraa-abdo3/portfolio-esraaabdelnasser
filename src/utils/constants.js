@@ -1,5 +1,25 @@
 const projects = [
   {
+      id: 1,
+    title: "to do list",
+    description:
+      "to do list.",
+    technologies: "html ,react,javascript , CSS",
+    src: "/images/projectsImages/todo.png",
+    demo: "https://to-do-list-iota-jet.vercel.app/",
+    code: "https://github.com/esraa-abdo3/to-do-list",
+  },
+    {
+      id: 2,
+    title: "my portfoio",
+    description:
+      "my portfoio.",
+    technologies: "html ,react,javascript,tailwind , CSS",
+    src: "/images/projectsImages/todo.png",
+    demo: "https://portfolio-esraaabdelnasser-paqe.vercel.app/",
+    code: "https://github.com/esraa-abdo3/portfolio-esraaabdelnasser",
+  },
+  {
     id: 1,
     title: "Furniture",
     description: "Furniture  store with React JS and  CSS",
@@ -8,8 +28,17 @@ const projects = [
     demo: "https://esraa-abdo3.github.io/furniture/",
     code: "https://github.com/esraa-abdo3/furniture",
   },
+    {
+    id: 3,
+    title: "Furniture",
+    description: "Furniture  store with React JS and  CSS",
+    technologies: "Javascript, CSS,",
+    src: "/images/projectsImages/furniturestorepage.png",
+    demo: "https://esraa-abdo3.github.io/furniture/",
+    code: "https://github.com/esraa-abdo3/furniture",
+  },
   {
-    id: 2,
+    id: 4,
     title: "learing-websites",
     description:
       "Landing page of learing-websites.",
@@ -19,7 +48,7 @@ const projects = [
     code: "https://github.com/esraa-abdo3/learning-website",
   },
   {
-    id: 3,
+    id: 5,
     title: "skincarepage",
     description:
       "Landing page of skincare-websites",
@@ -29,7 +58,7 @@ const projects = [
     code: "https://github.com/esraa-abdo3/skin-care",
   },
   {
-    id: 4,
+    id: 6,
     title: "home store",
     description:
       "home store for shopping ",
@@ -39,7 +68,7 @@ const projects = [
     code: "https://github.com/esraa-abdo3/homestore",
   },
   {
-    id: 5,
+    id: 7,
     title: "cloth store",
     description:
       "cloth store.",
@@ -49,15 +78,7 @@ const projects = [
     code: "https://github.com/esraa-abdo3/clothstore",
   },
     {
-    id: 6,
-    title: "to do list",
-    description:
-      "to do list.",
-    technologies: "html ,react,javascript , CSS",
-    src: "/images/projectsImages/todo.png",
-    demo: "https://to-do-list-iota-jet.vercel.app/",
-    code: "https://github.com/esraa-abdo3/to-do-list",
-  },
+
 
 ];
 
