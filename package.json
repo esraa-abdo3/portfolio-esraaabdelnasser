@@ -39,7 +39,7 @@
     "gh-pages": "^6.1.1",
     "postcss": "^8.4.23",
     "tailwindcss": "^3.3.1",
-    "vite": "^4.5.3"
+    "vite": "^4.5.14"
   },
   "homepage": "https://esraa-abdo3.github.io/portfolio-esraaabdelnasser"
 }

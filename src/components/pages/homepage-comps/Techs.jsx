@@ -7,6 +7,8 @@ import react from "../../../assets/react.png";
 import git from "../../../assets/git.png";
 import github from "../../../assets/github.png";
 import tailwind from "../../../assets/tailwind.png";
+import firebase from "../../../assets/firebase-icon-logo-png_seeklogo-615938.png"
+import redux from  "../../../assets/redux.png"
 import { Link as ScrollLink } from "react-scroll";
 
 const Techs = () => {
@@ -55,6 +57,19 @@ const Techs = () => {
       title: "GitHub",
       style: "shadow-white",
     },
+        {
+      id: 7,
+      src:  firebase,
+      title: "FireBase",
+      style: "shadow-orange-400",
+    },
+               {
+      id: 8,
+      src:  redux,
+      title: "Redux",
+      style: "shadow-purple-500",
+    },
+
 
   
   ];

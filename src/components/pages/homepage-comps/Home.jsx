@@ -16,8 +16,9 @@ const Home = () => {
             Frontend Developer
           </h2>
           <p className="text-gray-300 py-4 max-x-md text-justify">
-            My name is Esraa and I'm 21 years old ambitious junior front-end
-            developer. Now I'm looking for a new position and new challenges
+         I'm Esraa, a 22-year-old junior front-end developer passionate about building
+  responsive and user-friendly web apps using React.js and modern web
+  technologies. Always eager to learn and take on new challenges.
           </p>
 
           <div className="hidden desktop:flex">

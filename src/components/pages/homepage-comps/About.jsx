@@ -6,7 +6,7 @@ import { Link as ScrollLink } from 'react-scroll';
 const About = () => {
     return (
         <section name="About" 
-        className='relative w-full md:h-screen text-white h-unset'>
+        className='relative w-full md:h-screen text-white h-unset' style={{height:"auto" , marginTop:"-100px" , marginBottom:"150px"}}>
 
             <div className='max-w-screen-lg p-4 mx-auto flex flex-col justify-center w-full h-full text-lg'>
 
