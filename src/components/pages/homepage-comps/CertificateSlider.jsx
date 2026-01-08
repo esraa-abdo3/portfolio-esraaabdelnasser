@@ -82,6 +82,11 @@ const CertificateSlider = ({ certificates }) => {
                 <p className='text-lg'>2021-2025</p>
             </div>
             <div>
+                
+                <h3 className='text-2xl font-semibold'>Full Stack MERN Trainee @Information Technology Institute (ITI) – 4 Months Intensive Training</h3>
+                <p className='text-lg'>2026- present</p>
+            </div>
+            <div>
                 <h3 className='text-2xl font-semibold'>Training at the Egyptian Company - Frontend Developer Track</h3>
                 <p className='text-lg'>2022</p>
             </div>
